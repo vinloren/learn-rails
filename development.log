@@ -1,0 +1,38 @@
+# Logfile created on 2017-03-16 18:53:29 +0100 by logger.rb/54362
+D, [2017-03-16T18:53:39.621493 #11989] DEBUG -- : 
+D, [2017-03-16T18:53:39.621928 #11989] DEBUG -- : 
+I, [2017-03-16T18:53:39.622971 #11989]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-03-16 18:53:39 +0100
+D, [2017-03-16T18:53:39.921190 #11989] DEBUG -- :   [1m[36mActiveRecord::SchemaMigration Load (1.6ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+I, [2017-03-16T18:53:40.032336 #11989]  INFO -- : Processing by VisitorsController#new as HTML
+I, [2017-03-16T18:53:40.147348 #11989]  INFO -- :   Rendered visitors/new.html.erb within layouts/application (9.3ms)
+I, [2017-03-16T18:53:42.338609 #11989]  INFO -- :   Rendered layouts/_navigation_links.html.erb (4.7ms)
+I, [2017-03-16T18:53:42.339348 #11989]  INFO -- :   Rendered layouts/_navigation.html.erb (13.3ms)
+I, [2017-03-16T18:53:42.345458 #11989]  INFO -- :   Rendered layouts/_messages.html.erb (3.0ms)
+I, [2017-03-16T18:53:42.346723 #11989]  INFO -- : Completed 200 OK in 2314ms (Views: 2254.8ms | ActiveRecord: 0.0ms)
+D, [2017-03-16T18:53:49.837727 #11989] DEBUG -- : 
+D, [2017-03-16T18:53:49.838099 #11989] DEBUG -- : 
+I, [2017-03-16T18:53:49.838915 #11989]  INFO -- : Started GET "/pages/contact" for 127.0.0.1 at 2017-03-16 18:53:49 +0100
+I, [2017-03-16T18:53:49.926748 #11989]  INFO -- : Processing by HighVoltage::PagesController#show as HTML
+I, [2017-03-16T18:53:49.927212 #11989]  INFO -- :   Parameters: {"id"=>"contact"}
+I, [2017-03-16T18:53:50.333777 #11989]  INFO -- :   Rendered pages/contact.html.erb within layouts/application (379.9ms)
+I, [2017-03-16T18:53:50.835035 #11989]  INFO -- :   Rendered layouts/_navigation_links.html.erb (2.2ms)
+I, [2017-03-16T18:53:50.835763 #11989]  INFO -- :   Rendered layouts/_navigation.html.erb (7.6ms)
+I, [2017-03-16T18:53:50.840601 #11989]  INFO -- :   Rendered layouts/_messages.html.erb (0.7ms)
+I, [2017-03-16T18:53:50.842508 #11989]  INFO -- : Completed 200 OK in 914ms (Views: 909.9ms | ActiveRecord: 0.0ms)
+D, [2017-03-16T18:54:02.716786 #11989] DEBUG -- : 
+D, [2017-03-16T18:54:02.717278 #11989] DEBUG -- : 
+I, [2017-03-16T18:54:02.720619 #11989]  INFO -- : Started POST "/contact" for 127.0.0.1 at 2017-03-16 18:54:02 +0100
+I, [2017-03-16T18:54:02.820897 #11989]  INFO -- : Processing by ContactsController#process_form as HTML
+I, [2017-03-16T18:54:02.821581 #11989]  INFO -- :   Parameters: {"utf8"=>"✓", "authenticity_token"=>"3e+Z6F4TEApO2Fk8GtCMTZfJDJy5Fk4sgkvD/RJRBWBYs7uhjpaTL4zc2v/xrLpcW3twlapnCafP/ha9ysqyiQ==", "contact"=>{"name"=>"Vinceno Lorenzale", "email"=>"vinloren@gmail.com", "content"=>"OK"}, "commit"=>"Submit"}
+D, [2017-03-16T18:54:02.826543 #11989] DEBUG -- : DEBUG params are {"utf8"=>"✓", "authenticity_token"=>"3e+Z6F4TEApO2Fk8GtCMTZfJDJy5Fk4sgkvD/RJRBWBYs7uhjpaTL4zc2v/xrLpcW3twlapnCafP/ha9ysqyiQ==", "contact"=>{"name"=>"Vinceno Lorenzale", "email"=>"vinloren@gmail.com", "content"=>"OK"}, "commit"=>"Submit", "controller"=>"contacts", "action"=>"process_form"}
+I, [2017-03-16T18:54:02.830993 #11989]  INFO -- : Redirected to http://localhost:5000/
+I, [2017-03-16T18:54:02.832203 #11989]  INFO -- : Completed 302 Found in 10ms (ActiveRecord: 0.0ms)
+D, [2017-03-16T18:54:02.859391 #11989] DEBUG -- : 
+D, [2017-03-16T18:54:02.859805 #11989] DEBUG -- : 
+I, [2017-03-16T18:54:02.860874 #11989]  INFO -- : Started GET "/" for 127.0.0.1 at 2017-03-16 18:54:02 +0100
+I, [2017-03-16T18:54:02.880805 #11989]  INFO -- : Processing by VisitorsController#new as HTML
+I, [2017-03-16T18:54:02.924992 #11989]  INFO -- :   Rendered visitors/new.html.erb within layouts/application (5.9ms)
+I, [2017-03-16T18:54:03.968954 #11989]  INFO -- :   Rendered layouts/_navigation_links.html.erb (1.9ms)
+I, [2017-03-16T18:54:03.969564 #11989]  INFO -- :   Rendered layouts/_navigation.html.erb (7.7ms)
+I, [2017-03-16T18:54:03.975043 #11989]  INFO -- :   Rendered layouts/_messages.html.erb (0.9ms)
+I, [2017-03-16T18:54:03.976672 #11989]  INFO -- : Completed 200 OK in 1095ms (Views: 1092.1ms | ActiveRecord: 0.0ms)
