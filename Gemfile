@@ -42,6 +42,7 @@ gem 'google_drive'
 gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
+#gem 'google-api-client', :require => 'google/api_client'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
