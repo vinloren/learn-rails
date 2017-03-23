@@ -1,8 +1,22 @@
-<h3>Home</h3>
-<p>Welcome to the home of <%= @owner.name %></p>
-<p>I was born on <%= @owner.birthdate %></p>
-<p>Only <%= @owner.countdown %> days until my birthday!</p>
-
+<% content_for :title do %>Vinloren Learn-Rails<% end %>
+<% content_for :description do %>Website of Vinloren<% end %>
+<section>
+ <img src="http://lorempixel.com/760/480/cats/1">
+</section>
+<section>
+ <div class="column">
+  <h2>Stay in touch.</h2>
+  You will be receiving all the updates to this site automatically.
+ </div>
+ <div class="column">
+  <div class="form-centered">
+   <%= simple_form_for @visitor do |f| %>
+   <%= f.error_notification %>
+   <%= f.input :email, label: false, :placeholder => 'Your email address..' %><br>
+   <%= f.button :submit, "Sign up for the newsletter", :class => "submit" %><% end%>
+  </div>
+ <div>
+</section>
 <footer class="row">
 <section class="small-2 columns">Copyright 2013</section>
 <section class="small-4 columns">All rights reserved</section>

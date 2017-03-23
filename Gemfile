@@ -44,6 +44,7 @@ gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
 gem 'tilt'
+gem 'ruby_http_client'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
