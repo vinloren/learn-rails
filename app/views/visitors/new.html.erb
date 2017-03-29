@@ -1,23 +1,28 @@
 <% content_for :title do %>Vinloren Learn-Rails<% end %>
 <% content_for :description do %>Website of Vinloren<% end %>
 <section>
- <img src="http://lorempixel.com/760/480/cats/1">
+ <div class="large-6 columns"><p align="justify"><%= t('questosito') %></p>
+ <p align="justify"><%= t('questosito1') %></div>
+ <div class="large-6 columns">
+   <%= t('mytown') %>
+   <%= image_tag "milan_harbor.jpg" %>
+ </div>
+<!-- <div class="large-1 columns"> </div> -->
 </section>
 <section>
  <div class="column">
-  <h2>Stay in touch.</h2>
-  You will be receiving all the updates to this site automatically.
+  <h2><%= t('stay')%></h2>
+  <%= t('ricevi')%>
  </div>
  <div class="column">
   <div class="form-centered">
    <%= simple_form_for @visitor do |f| %>
    <%= f.error_notification %>
-   <%= f.input :email, label: false, :placeholder => 'Your email address..' %><br>
-   <%= f.button :submit, "Sign up for the newsletter", :class => "submit" %><% end%>
+   <%= f.input :email, label: false, :placeholder => t('youremail') %><br>
+   <%= f.button :submit, t('signup'), :class => "submit" %><% end%>
   </div>
  <div>
 </section>
 <footer class="row">
-<section class="small-2 columns">Copyright 2013</section>
-<section class="small-4 columns">All rights reserved</section>
+
 </footer>

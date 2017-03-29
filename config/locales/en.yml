@@ -21,3 +21,205 @@
 
 en:
   hello: "Hello world"
+  About: 'About'
+  Contact: 'Contact'
+  setlingua: 'Set Language'
+  name: 'Name'
+  mytown: 'My town: Milan, the dockyard'
+  content: 'Content'
+  Submit: 'Submit'
+  Kadigan: 'About Vincenzo Lorenzale'
+  signup: "Sign up for the newsletter"
+  stay: 'Stay in touch'
+  ricevi: 'You will be receiving all the updates to this site automatically.'
+  youremail: 'Your email address..'
+  childhood: 'My childhood'
+  navy: 'In the Navy'
+  dawn: 'The dawn of IT'
+  unisys: "Working at Unisys Italy"
+  romsys: "In Romania with Unisys"
+  venezia: "Venice 1996 with Cecilia"
+  rimini: "Myself at Rimini in August 1951"
+  ongabbiano: "On board of 'Gabbiano' 1968"
+  backmilan: "Back to Unisys in Milan"
+  reinvent: "Reinventing myself"
+  digicom: "Working at Digicom"
+  io_digicom: 'Myself at digicom 2009'
+  io_altri: 'Myself, Luigi, Damiano, Mr.Lee at Digicom 2009'
+  adesso: "What next?"
+  speedometer: 'Inertial speedometer'
+
+  curric: "I was born in Milan on December 16th 1945, a few months after the World War II was ended. \
+  I attended the primary school in two different peripheral districts of Milan, 'Greco' and 'San Siro', both rich of green meadows where kids \
+  could happily play soccer or any other sport in the open air. I had no TV and no telephone but in 1958 (TV started in 1954 \
+  in Italy) but that was a good time anyway as I can recall.."
+  curric1: "In 1965 I graduated with a B degree in Telecommunications in Milan and eventually served in the Italian Navy as \
+ensign officier after attended the 61° AUCD course (Oct. 1966 - July 1967) at the Naval Academy in Livorno. In August 1967 \
+I was assigned to the naval base of Augusta (Sicily) on board of 'Nave Gabbiano', a glorious (she sunk two british submarines \
+in the Sicily sea in 1943) antisubmarine Corvette. My service over there ended in Oct. 1968. I enjoyed that time very much, \
+I loved the Navy but realized also that I could not be forever young and the life on the sea could not fit me very long, \
+so coming back to civil life was the right choice to me."
+  curric2: "Back at home in Milan I found a job as 'Customer Service Engeneer' at 'Sperry Univac' in early Jan 1969 \
+and began to work in the dawn of what now is called 'Information Technology' on the 'Univac 9200/9300' computer (8-32Kb MM, card reader, \
+serial card punch, '6C' magnetic tapes). Being gifted in logic and problem solving abilities, I rapidly became a skilled professional \
+and in 1973 my activity was addressed to Technical Support as 'Technical Support Specialist' covering the entire Italian territory.\ 
+In 1986 Sperry and Burroughs merged to become Unisys and I was appointed Technical Support Manager on Sperry Model6-10 series, 9030/9040 series \
+and Borroughs A/B series product lines. In 1988 I was appointed Unisys Italian Support Manager heading a staff of 45 employees divided in 4 \
+support groups lines. I kept that charge till early 1990 when I was routed from support to the field being appointed N/W Area Costumer Service \
+Director cause former director\'s retirement."
+  curric3: "The new position as 'Customer Service Direcor N/W Area' actually did not make me happy since it was a big change \
+in what was the main activity focus based mainly on hunting for new revenue, by selling services, trying to meet the target \
+established and checked weekly during inquisitive intrusive conference calls driven by the European Division based in London Huxbridge. \
+That was far away from what I liked most when I was in charge as Tech Support Manager unfortunately. In the meantime the 'iron curtain' \
+and the 'empire of evil' had fallen apart and new markets in east Europe could be reached by Unisys too. That gave me the opportunity \
+for a change when in early 1993 they were looking for a manager, preferably from a latin country, to be assigned in Romania \
+to support the development of a customer service structure at the local Unisys Dealer just taking charge over there."
+  curric4: "In September 1993 I finally got in charge as Customer Service Director at the Unisys dealer based in Bucharest (Romsys S.A.). \
+The assumpion of my assignment implied it could have last up to three years so one of my tasks was also to learn rumanian to better communicate \
+with local people. My teacher was a beatiful young lady (Cecilia) who was graduated in Italian and French philology. We got along pretty well \
+at the point of becoming engaged sentimentally: we married in Bucharest in early November 1994. In the meantime the relationship between \ 
+the dealer and Unisys European Division underwent some changes so I was offered to possibly move to Russia or else return to Milan."
+  curric5: "In late November 1994 my wife and I got Milan were I was given the position of \'Customer Services Quality Manager\'. I covered that duty \
+till February 1996. Starting from 1990 the big IT companies began to suffer massive restructuring issues due to the change in the market \
+caused by the technological revolution in progress: the middle-management figures were to be drastically reduced and I too, among many others, \
+was \'offered\' to leave the comapany with a severance payment as farewell gift. I left the company on Feb. 28th 1996."
+  curric6: "Suddenly I realized I had to reinvent myself: initially I tried to find a new job but quickly understood it was almost impossible \
+for whoever is over 50 in Italy. I then had to become a 'one man company' after a few months in which I rebuilt myself, coming back to my origin \
+of technical professional, by learnig Linux, Java, C, php, Mysql, HTML, javascript, web design principles. Thanks to a few former collegues of mine \
+that spreaded the news, I could find various commitments at different small-medium manufacturing and services companies in Lumbardy from 1997 \
+till 2007. The projects I developed did span from dynamic web or intranet LAMP platform (Linux Apache Mysql PHP) to the development of a \
+Motorola RISC based board equipped with WnCE (in 1999-2000). The most interesting project was that built in intranet at a HW repair company \
+(24 working stations) where the entire management of in-out repairs and billing was implemented and maintained by me using two servers in back-up \
+(2002-2007)."
+  curric7: "In 2006-2007 I got in touch with Digicom S.p.A. which I had been knowing since it was born in 1977 as Sperry (former name of Unisys) became \
+one of the most important client of theirs. In 2004-2006 I had the chance to develop a gaming server and a gaming board which eventually used a Digicom controller \
+to drive keys and lamps in addition to a GSM module for data transmission and because of this I got acquainted with a few tchnical staff people at \
+that company. Because of this, and the need to support the new game board Digicom started to develop in 2007, I offered them to be hired to help \
+the project: in Sept. 2007 I started working for Digicom in the gaming and automotive product line. It was like a rebirth for me, I felt like it \
+was when I was 30 at Sperry being instead close to 62.. I could unleash my creativity building C / Java application in Linux and Windows environments \
+aimed to test and manage the Digicom game board. Eventually my activity was addressed to Digicom automotive implementing a TCP Web server Java NIO \
+based to manage car fleet in real time. I left Digicom and retired in April 2012 carrying with me good memories of nice relationship with all people \
+working there."
+  curric8: "Since I retired I did not stop working on IT projects even though mainly aimed to learn new technologies with no immediate practical \
+application. Just to mention a couple: I developed a sort of robot based on Raspberry board with camera and sensors driven by a Java app commmunicating \
+by WiFi (2013), a couple of Android apps (2014-15) to implement a speedometer based on Android accelerometer, another app to record GPS plots locally and \
+remotely on a node.js server to be reviewed to show the travel in addition to spoken alert in proximity of GPS coords of traffic radars recorded in local sqlite DB. \
+At end 2016 I became intrigued by hacking technology so I installed Metasploit on my Linux box as well as Kaly Linux on my WMware workstation on windows 10 \
+64bit box. Metasploit is based on ruby language and consequently I got attracted by Ruby and Rails too so I developed this site just to learn rails \
+under guidance of Daniel Kehoe\'s book \'Learn ruby on Rails\' 2013 edition. My current activity, before going deeper into Metasploit, is dedicated to Rails \
+and it\'s wonderful world. Life goes on despite \'slings and arrows of adverse fortune\' that loom in €uro zone.. But this is another story on which I \
+have a firm stand I do\'nt discuss here being it \'off topic\'."
+  questosito: "This is the first site of mines developed in Rails just following the guidelines and samples shown in Daniel Kehoe\'s book  (ed.2013) \'Learn Ruby on Rails\'. \
+A spreadsheet is made available to me on my Google account on which the comments, any visitor may drop in a dedicated site\'s form, will be recorded. \
+Then I would be simultaneously receiving a notification, in my mailbox, about the comment just entered thanks to the sendgrid mailer configured in this site. \
+Thanks to the MailChimp subscription, I could get updated the mailing list I configured there, with the email address of whom elected to automatically receive news about updates \
+or other news issued by this site."
+  questosito1: "In addition to the original setup, I introduced bilingual support (english and italian), moreover, \
+it is my intention to enhance this site addind the support to a blog to permit a dialogue with the visitors and to record the improvement / enhancement I will be \
+introducing."
+
+it:
+  hello: 'Ciao Mondo'
+  About: 'Chi sono'
+  Contact: 'Contattami'
+  setlingua: 'Setta Lingua'
+  mytown: 'La mia città: Milano, la darsena'
+  name: 'Nome'
+  content: 'Contenuto'
+  Submit: 'Invio'
+  Kadigan: 'Su Vincenzo Lorenzale..'
+  signup: "Iscriviti a ricezione"
+  stay: 'Stai in contatto'
+  ricevi: 'Per ricevere automaticamente aggiornamenti fatti sul sito.'
+  youremail: 'Il tuo indirizzo email..'
+  curric: '<p>Sono nato a Milano il 16 Dicembre 1945, giusto acuni mesi dopo che finì la II Guerra Mondiale.</p>'
+  childhood: 'La mia infanzia'
+  navy: 'In Marina Militare'
+  dawn: "L\'alba della IT"
+  unisys: "Lavorando presso Unisys Italia"
+  romsys: "In Romania per Unisys"
+  venezia: "Venezia 1996 con Cecilia"
+  rimini: "Io a Rimini Agosto 1951"
+  ongabbiano: "A bordo della 'Gabbiano' 1968"
+  backmilan: "Ritorno a Unisys Milano"
+  reinvent: "Reinventare mé stesso"
+  digicom: "Al lavoro in Digicom"
+  io_digicom: 'Io at digicom 2009'
+  io_altri: 'Io, Luigi, Damiano, Mr.Lee at Digicom 2009'
+  adesso: "E adesso?"
+  speedometer: 'Tachimetro inerziale'
+
+  curric: "Sono nato a Milano il 16 Decembre 1945, giusto alcuni mesi dopo finita la II Guerra Mondiale. \
+Ho frequentato la scuola primaria in due diversi quartieri alla periferia di Milano, 'Greco' e 'San Siro', \
+entrambi ricchi di prati e spazi liberi dove i ragazzini potevano giocare felicemente a calcio o altro sport \
+all'aria aperta. Non ho avuto né telefono né TV se non nel 1958 (la TV avendo preso avvio in Italia nel 1954) \
+ma, nonostante le ristrettezze del dopoguerra, ricordo comunque di avere avuto un\'infanzia felice."
+  curric1: "Nel Luglio 1965 mi sono diplomato in Telecominicazioni a Milan e successivamente prestai servizio nella Marina Militare \
+Italiana come ufficiale (Guardiamarina) terminato il 61° corso AUCD (Oct. 1966 - Lug. 1967) presso Accademia Navale di Livorno. \
+Venivo assegnato presso la base navale di Augusta (Sicila) a bordo di 'Nave Gabbiano', una gloriosa (affondò due sommergibili britannici \
+nel 1943 nel mare di Sicilia) Corvetta antisomm. Il mio servizio in Marina terminò in Ott. 1968. Mi appagò molto quel periodo, \
+amavo la Marina ma capivo anche che non avrei potuto rimanere per sempre giovane e la vita sul mare non mi sarebbe stata congeniale \
+nel lungo periodo: un immediato ritorno alla vita civile mi parve allora la scelta giusta."
+  curric2: "Ritornato a Milano trovavo occupazione come 'Tecnico di Assistenza Clienti' presso 'Sperry Univac' nel Gennaio del 1969 \
+e iniziavo a lavorare all'alba di qualla che oggi si chiama \'Tecnologia dell\'informazione\' sui computer 'Univac 9200/9300' (8-32Kb MM, card reader, \
+perforatore di schede, unità '6C'per nastri magnetici). Essendo naturalmente dotato in logica e capacità di risolvere problemi, divenni in breve tempo \
+un abile professionista del ramo al punto da essere indirizzato al Supporto Tecnico nel 1973 con la qualifica di 'Tecnico Specialista di Supporto' a \
+copertura del territorio nazionale. Nel 1986 Sperry and Burroughs si fondevano per diventare Unisys e subito dopo venivo nominato \'Responsabile Gruppo \
+di Supporto\' ai  prodotti Sperry Model6-10, 9030/9040 e Borroughs serie A/B. Nel 1988 venivo nominato \'Capo Supporto Tecnico\' gestendo uno staff di 45 \
+addetti divisi in 4 gruppi di supporto. Mantenevo quell\'incarico fino a inizio 1990 quando venivo dirottato sul campo di zona venendo nominato \'Direttore \
+Assistenza Clienti Area N/O\' essendo il precedente Direttore andato in pensione."
+  curric3: "La nuova posizione di Direttore Area N/O in realtà non mi era congeniale essendosi rivelata un grosso cambiamento nell\'attivià \
+di fondo ovvero focalizzata in massima parte sulla caccia a nuovo fatturato, attraverso la vendita di servizi e accessori di consumo, con l\'obiettivo di \
+realizzare quanto previsto, trimestre per trimestre, subendo un invasivo controllo settimanale via conferenze telefoniche gestite dalla \'European Division\' \
+di base a Londra Huxbridge. Sfortunatamente per me, tutto ciò era molto lontano da quanto apprezzavo di più quando ero in carica come \
+\'Capo Supporto Tecnico Nazionale\'. Nel frattempo erano caduti il \"sipario di ferro\" (the iron curtain, malamente tradotto in \'cortina di ferro\') \
+e l\'\"impero del male\" e si apriva quindi la possibilità di accedere ai mercati dell\'est anche per Unisys. Ciò mi diede allora l\'opportunità \
+per un cambio di clima quando venni a sapere, a inizio 1993, che Unisys European Division cercava un manager, preferibilmente di cultura latina, \
+da assegnare in Romania a supporto dello sviluppo di un centro assistenza clienti presso il locale distributore Unisys che stava avviando la sua attività."
+  curric4: "Nel Settembre del 1993 entravo finalmente in carica come \'Direttore Servizi Clienti Unisys\' presso il distributore (Romsys S.A.) di Bucarest. \
+La mia assegnazione prevedeva un contratto che poteva arrivare a tre anni sicché uno dei miei compiti era anche quello di imparare la lingua rumena per meglio comunicare \
+con la popolazione locale. La mia insegnante era una bella giovane donna (Cecilia) laureata in fililogia Italiana e Francese. Ci intendemmo \
+immediatamente al punto da far nascere un legame sentimentale: ci sposiamo a inizio Novembre 1994. Nel frattmpo le relazioni fra dealer e \
+Unisys European Division subivano dei cambiamenti al punto che mi veniva offerto di trasferirmi in Russia oppure di rientrare a Milano risolvendo il \
+contratto di assegnazione internazionale."
+  curric5: "Nel tardo Novembre 1994 mia moglie ed io arriviamo a Milano dove mi viena data la posizione di \'Manager della Qualità Servizi Assistenza Clienti\'. \
+Ricoprirò quell\'incarico fino a fine Febbraio 1996. Fin da inizio 1990 le grandi aziende di tecnologia informatica iniziavano a soffrire massicci problemi di \
+ristrutturazione dovuti alla rivoluzione tecnologica che via via si espandeva sul mercato imponendo cambiamenti: i numeri del cosiddetto \'middle-managemen\' \
+richedevano un drastico ridimensionamento cisì anche a me, come a molti altri, veniva 'offerto' di lasciare l\'azienda dietro riconoscimento di un regalo d\'addio. \
+il 28 feb 1996 lasciavo l\'azienda."
+  curric6: "Improvvisamente mi rendevo conto di dover reinventare me stesso: inizialmente provavo a cercare un nuovo posto di lavoro ma presto capivo come fosse quasi impossibile trovarlo \
+come per chiunque fosse ultra cinquantenne in Italia. Ho dovuto allora aprire PIVA e diventare \'Azienda individuale\' dopo alcuni mesi nei quali ricostruivo me stesso \
+tornando alle mie origini di tecnico professionista approcciando Linux, Java, C, php, Mysql, HTML, javascript e architettura web. Grazie ad alcuni ex colleghi che \
+diffusero la notizia, ebbi l\'opportunità di trovare varie commesse presso doverse aziende manifatturiere o di servizi in Lombardia dal 1997 al 2007. \
+I progetti realizzati spaziavano da appliocazioni intranet o web su piattaforma LAMP (Linux Apache Mysql PHP), allo sviluppo di una schede \
+basata su RISC Motorola in ambiente with WnCE (in 1998-2000). Il progetto più significativo ha riguardato l\'allestimento di due server in back-up \
+presso azienda di servizi riparazione PC e stampanti con 24 stazioni di lavoro, collegate a applicazione web intranet per la gestione delle riparazioni, \
+con produzione bolle di consegna, gestione processo di riparazione, gestione magazziono in tempo reale, controllo emissione fatture. Il tutto fra sviluppo, supporto, \
+assistenza e aggiornamenti, è durato dal 2002 al 2007."
+  curric7: "Fra il 2006 e il 2007 sono stato più volte in contatto con Digicom S.p.A., che già conoscevo dal 1977 quando fu fondata, dato che Sperry (prima di diventare Unisys) \
+era diventato uno dei loro principali clienti. Fra il 2004 e il 2006 avevo avuto occasione di sviluppare un server di gioco e una scheda che poi andava ad \
+usare un controller Digicom per pilotare tasti, luci e un modulo GSM per trasmissione dati, e a causa di ciò avevo maturato una buona relazione con Digicom e relativo personale tecnico. \
+Grazie a ciò, e al fatto che Digicom avesse in corso l\'avvio della produzione di una loro scheda di gioco, mi proposi per una collaborazione per supporto al lancio della stessa sul mercato nel 2007. \
+Nel Settembre 2007 iniziai allora a lavorare per Digicom sulla linea di prodotti gaming e automotive. Fu come una rinascita per me, mi sentivo come avessi 30 anni invece di quasi 62\
+.. potevo sbrigliare la mia creatività realizzando applicazioni in C / Java in ambiente Linux e Windows \
+mirate al test e alla gestione della scheda di gioco Digicom. Successivamente la mia attività fu indirizzata verso aoutomotive realizzando un server TCP basato su Java NIO \
+per gestire flotte di automezzi in tempo reale. Lasciai Digicom per andare in pensione in Aprile 2012, portando con me molti bei ricordi sulla proficua relazione avuta con tutto l\'ambiente aziendale \
+che hanno segnato il termine della mia carriera lavorativa."
+  curric8: "Da quando sono in pensione non ho comunque smesso di sviluppare progetti IT ancorché non finalizzati a immediata applicazione pratica ma, piuttosto, a imparare \
+le tecnologie emergenti per diletto e arricchimento culturale. Giusto per menzionarne alcuni: ho realizzato una sorta di robot basato su RaspberryPI con camera e sensori \
+pilotato in WiFi da applicazione Java nel 2013, quindi un paio di app Android nel 2014-15 per realizzare un tachimetro inerziale sfruttando accelerometro su smartphone, altra app riguarda \
+la reagistazione di plot GPS raccolti su DB sqlite locale, oltre che inviati a server node.js remoto, per registrazione viaggi fatti rivisitabili via GoogleMaps su telefonino o browser su PC. In aggiuta questa \
+app informa in tempo reale della presenza di autovelx, con allarme vocale se si è oltre la velocità consentita, grazie a mappa autovelox e semafori nazionali caricato su sqlite DB smartphone. \
+Alla fine del 2016 mi sono fortemente incuriosito delle tecnologie di hacking e ho subito installato Metasploit su Linux box e Kali Linux su WMware workstation presente su \
+mia altra box Windows 10 dual processor 64bit. Metasploit è basato su Ruby e conseguentemente sono stato attratto da questo linguaggio e poi anche da Rails che mi è sembrato molto \
+interessante per lo sviluppo di applicazioni Web. Ho allora provveduto a sviluppare questo sito in Rails guidato dal libro edito nel 2013 di Daniel Kehoe \'Learn Ruby on Rails\' giusto per \
+conoscere e imparare ad usare questa tecnologia. La mia attività corrente, prima di rientrare ad approfondire Metasploit e strumenti collegati, è dedicata a Rails \
+e al suo meraviglioso mondo di opportunità. La vita va avanti.. a dispetto di \"dardi e frecce dell\'avversa fortuna\" che incombono in €urozona.. ma questa è \
+un\'altra storia che non voglio discutere qui essendo \'fuori tema\'."
+  questosito: "Questo sito è il primo che ho sviluppato in Rails sequendo le linee guida e gli esmpi del libro (ed.2013) di Daniel Kehoe \'Learn Ruby on Rails\'. \
+All\'amministatore del sito è reso disponibile un foglio elettronico, sul suo account Google, dove possono essere registrati i commenti fatti dai contatti \
+che hanno voluto esprimerli. Contestualamente, l\'amministratore riceve nella sua mailbox la notifica del commento via mailer sengrid qui configurato. \
+Grazie a iscrizione a MailChimp, sono in grado di trovare aggiornata la lista dei contatti di chi ha gradito di voler ricevere, in automatico, aggiornamenti \
+e comunicazioni di gruppo espressi da questo sito."
+  questosito1: "Rispetto all\'impostazione originale, ho introdotto il supporto alla lingua italiana in aggiunta a inglese; è inoltre mia intenzione integrare il sito con \
+un blog per permettere dialogo con i visitatori oltre a sintetizzare gli aggiornamenti fatti."

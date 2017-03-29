@@ -1,3 +1,10 @@
 <%# add navigation links to this file %>
-<li><%= link_to 'About', page_path('about') %></li>
-<li><%= link_to 'Contact', new_contact_path %></li>
+<li><%= link_to t('About'), page_path('about') %></li>
+<li><%= link_to t('Contact'), new_contact_path %></li>
+<li>
+<a data-dropdown="drop1" aria-controls="drop1" aria-expanded="false"><%= t('setlingua')%></a>
+<ul id="drop1" class="f-dropdown" data-dropdown-content aria-hidden="true" tabindex="-1">
+  <li><%= link_to_unless I18n.locale == :en, "English", set_language_english_path %></li>
+  <li><%= link_to_unless I18n.locale == :it, "Italiano", set_language_italian_path %></li>
+</ul>
+</li>

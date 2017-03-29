@@ -1,10 +1,62 @@
 <% content_for :title do %>About<% end%>
-<h3>About Foobar Kadigan</h3>
-<p>He was born in Waikikamukau, New zeland. He left New Zeland for ebgland, excelled at the University of Mopery, and served the Royal Loamshire Regiment. 
-While in service, he invented the kanuten valve used in the processing of unobtainium for industrial 
-use. He founded Acme Manufactoribg, later acquired by the Advent corporation, to commercialize the 
-product. Mr. Kadigan is now retired and lives in Middlehampton where raises Gradium frieda.</p>
-<p>His favourite quotation is:</p>
-<p>Lorem ipsum dolor sit amet, consecutor adipiscing elit, sed do eiusmod temper incidunt ut labore et dolore 
-magna aliqua.
-</p> 
+<h3><%= t('Kadigan')%></h3>
+<section>
+<div class="row">
+ <div class="large-9 columns">
+  <p align="justify">
+   <b><%= t('childhood') %></b><br>
+   <%= t('curric') %>
+  </p> 
+   <p align="justify">
+   <b><%= t('navy') %></b><br>
+   <%= t('curric1') %>
+  </p>
+  <p align="justify">
+   <b><%= t('dawn') %></b><br>
+   <%= t('curric2') %>
+  </p>
+  <p align="justify">
+   <b><%= t('unisys') %></b><br>
+   <%= t('curric3') %>
+  </p>
+  <p align="justify">
+   <b><%= t('romsys') %></b><br>
+   <%= t('curric4') %>
+  </p>
+  <p align="justify">
+   <b><%= t('backmilan') %></b><br>
+   <%= t('curric5') %>
+  </p>
+  <p align="justify">
+   <b><%= t('reinvent') %></b><br>
+   <%= t('curric6') %>
+  </p>
+  <p align="justify">
+   <b><%= t('digicom') %></b><br>
+   <%= t('curric7') %>
+  </p>
+  <p align="justify">
+   <b><%= t('adesso') %></b><br>
+   <%= t('curric8') %>
+  </p>
+ </div>
+  
+ <div class="large-3 columns"><!-- photos here -->
+  <p><%= t('rimini')%><%= image_tag "io_bellaria_1951.jpg" %></p>
+  <p><%= t('ongabbiano')%><%= image_tag "OnGabbiano.jpg" %></p>
+  <p>Livorno 40° Accademia Navale 2006<%= image_tag "io_accademia_2006.jpg" %></p>
+  <br><br><br><br>
+  <p>Bucharest 1993-94<%= image_tag "io_romsys_2.JPG" %></p>
+  <b><br><br>
+  <p><%= t('venezia')%><%= image_tag "io_cecilia_1996.jpg" %></p>
+  <br><br><br><br><br>
+  <p><%= t('io_digicom')%><%= image_tag "io_digicom.jpg" %></p>
+  <br><br>
+  <p><%= t('io_altri')%><%= image_tag "io_altri_digicom.jpg" %></p>
+  <br><br><br>
+  <p>RasPI_robot<%= image_tag "RasPI_robot.jpg" %></p>
+  <br><br>
+  <p><%= t('speedometer')%><%= image_tag "nav_inerziale_1.png" %></p>
+ </div>
+</div>
+</section>
