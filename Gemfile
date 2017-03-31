@@ -6,7 +6,7 @@ gem 'rails', '4.2.5'
 # Use postgresql as the database for Active Record in production
 gem 'pg', group: :production
 gem 'rails_12factor', group: :production
-gem 'sendgrid-ruby', group: :production
+gem 'sendgrid-ruby'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0.3'
 # Use Uglifier as compressor for JavaScript assets
