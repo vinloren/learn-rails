@@ -3,8 +3,8 @@ ruby '2.3.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
-# Use postgresql as the database for Active Record
-gem 'pg'
+# Use postgresql as the database for Active Record in production
+gem 'pg', group: :production
 gem 'rails_12factor', group: :production
 gem 'sendgrid-ruby', group: :production
 # Use SCSS for stylesheets
@@ -32,6 +32,7 @@ group :development do
  gem 'better_errors'
  gem 'quiet_assets'
  gem 'rails_layout'
+ gem 'sqlite3'
 end
 
 # learn rails
