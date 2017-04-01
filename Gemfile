@@ -4,9 +4,8 @@ ruby '2.3.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
 # Use postgresql as the database for Active Record in production
-gem 'pg', group: :production
+#gem 'pg', group: :production
 gem 'rails_12factor', group: :production
-gem 'sendgrid-ruby'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0.3'
 # Use Uglifier as compressor for JavaScript assets
@@ -33,6 +32,8 @@ group :development do
  gem 'quiet_assets'
  gem 'rails_layout'
  gem 'sqlite3'
+ gem 'rest-client'
+ gem 'mailgun-ruby'
 end
 
 # learn rails
@@ -47,6 +48,7 @@ gem 'zurb-foundation'
 gem 'tilt'
 gem 'ruby_http_client'
 gem 'rails-i18n'
+#gem 'sendgrid-ruby'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
