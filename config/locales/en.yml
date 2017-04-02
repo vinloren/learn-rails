@@ -21,6 +21,7 @@
 
 en:
   hello: "Hello world"
+  description: "Web site describing the activity of Vincenzo Lorenzale now retired but formerly at Unisys Italy then freelance IT consultant then at Digicom S.p.A"
   About: 'About'
   Contact: 'Contact'
   setlingua: 'Set Language'
@@ -120,6 +121,7 @@ introducing."
 
 it:
   hello: 'Ciao Mondo'
+  description: "Sito esplicativo delle attività di Vincenzo Lorenzale ora in pensione ma prima in servizio at Unisys Italia poi Consulente IT freelance quindi at Digicom S.p.A."
   About: 'Chi sono'
   Contact: 'Contattami'
   setlingua: 'Setta Lingua'
